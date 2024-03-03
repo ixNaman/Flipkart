@@ -2,7 +2,6 @@ package com.Flipkart.Flipkart.service;
 
 import org.springframework.http.ResponseEntity;
 
-import com.Flipkart.Flipkart.model.Cart;
 import com.Flipkart.Flipkart.response.MessageResponse;
 
 public interface cartService {
